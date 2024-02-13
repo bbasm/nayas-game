@@ -1,0 +1,21 @@
+.sanscest{
+    font-size: 30px;
+    font-family: "Sixtyfour", sans-serif;
+    margin-left: 20px;
+}
+.sancestimg{
+    width: 600px;
+    border: 5px rgb(115, 0, 255) dotted;
+    border-radius: 40px;
+}
+body {
+    background-color: pink;
+}
+.row{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.spin{
+    width: 300px;
+}
